@@ -1,0 +1,23 @@
+*.xml
+*.pkl
+plays.pkl
+matrices/
+
+Baseball*/
+Normal CornBelters*/
+
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+venv/
+.venv/
+env/
+.env/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.DS_Store
