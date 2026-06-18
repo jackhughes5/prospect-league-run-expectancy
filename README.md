@@ -4,7 +4,7 @@ Builds a 24-state run expectancy matrix for the Prospect League
 from PrestoSports XML box scores (2022-2025).
 
 
-I wrote a little bit about this here: 
+I wrote about about this here: 
 https://cornbeltersbaseball.com/run-expectancy-matrix-for-the-prospect-league/
 
 ## How it works
