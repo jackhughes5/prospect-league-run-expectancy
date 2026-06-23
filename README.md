@@ -17,7 +17,7 @@ The core idea: use exit velocity and launch angle off the bat to estimate what a
 
 **Run expectancy validation.** The simulator's per-state run expectancy matches the empirical run expectancy matrix computed from the same dataset, confirming the two are the same process seen from different angles.
 
-**Run Expectancy Article:**https://cornbeltersbaseball.com/run-expectancy-matrix-for-the-prospect-league/
+**Run Expectancy Article:** https://cornbeltersbaseball.com/run-expectancy-matrix-for-the-prospect-league/
 
 ---
 
